@@ -19,4 +19,9 @@
     <string name="show_dev_on_cm">Þú hefur virkjað þróunarstillingar!</string>
     <string name="show_dev_already_cm">Ekki nauðsynlegt, þú hefur þegar virkjað þróunarstillingar.</string>
     <string name="status_bar_double_tap_to_sleep_summary">Tvíbankaðu á stöðustikuna eða læsiskjáinn til að slökkva á skjánum</string>
+
+    <!-- Font Engine -->
+    <string name="font_picker_title">Font</string>
+    <string name="disable_fonts_installed_title">Font picker is unavailable to avoid conflicts with Substratum. Uninstall it if you wish to use the font picker.</string>
+
 </resources>
