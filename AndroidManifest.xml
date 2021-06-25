@@ -3453,7 +3453,7 @@
 
         <!-- CipherCave -->
         <activity android:name=".Settings$CipherCaveActivity"
-            android:label="@string/cipher_cave_dash_title"
+            android:label="@string/cipher_cave_title"
             android:icon="@drawable/ic_homepage_ciphercave"
             android:taskAffinity="">
             <intent-filter android:priority="1">
